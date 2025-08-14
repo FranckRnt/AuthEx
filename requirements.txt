@@ -1,0 +1,9 @@
+black
+cffi
+clic
+cryptography
+mypy_extensions
+packaging
+pathspec
+platformdirs
+pycparser
